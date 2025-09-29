@@ -1,2 +1,3 @@
 # mqtttest
-Test Mqtt with zerpoMQ alias NetMQ
+This is a project for sample Testing an MQTT Server and Client
+with te C# implementation of ZeroMQ.
